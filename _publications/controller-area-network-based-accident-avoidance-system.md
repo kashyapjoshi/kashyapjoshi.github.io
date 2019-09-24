@@ -1,0 +1,13 @@
+---
+title: "Controller Area Network Based Accident Avoidance System"
+collection: publications
+permalink: /publication/controller-area-network-based-accident-avoidance-system
+excerpt: 'Based on requirements of modern vehicle, in- vehicle Controller Area Network (CAN) architecture has been implemented. In order to reduce point to point wiring harness in vehicle automation, CAN is suggested as a means for data communication within the vehicle environment. The benefits of CAN bus based network over traditional point to point schemes will offer increased flexibility and expandability for future technology insertions. This paper describes system which uses sensors to measure various parameters of the car like speed, distance from the other car, presence of alcohol in car and accidental change of lane and sends a warning signal to the driver if any of the parameter goes out of range to avoid accidents . A situation that provides a good example of how the system works is when a driver is about to change lanes, and there is a car in his blind spot. The sensors will detect that car and inform the driver before he starts turning, preventing him from potentially getting into a serious accident.'
+date: 2014-10-01
+venue: 'National Conference, NCETETEA'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Kashyap Joshi (2013). &quot;Controller Area Network Based Accident Avoidance System.&quot; <i>National Conference, NCETETEA</i>'
+---
+Based on requirements of modern vehicle, in- vehicle Controller Area Network (CAN) architecture has been implemented. In order to reduce point to point wiring harness in vehicle automation, CAN is suggested as a means for data communication within the vehicle environment. The benefits of CAN bus based network over traditional point to point schemes will offer increased flexibility and expandability for future technology insertions. This paper describes system which uses sensors to measure various parameters of the car like speed, distance from the other car, presence of alcohol in car and accidental change of lane and sends a warning signal to the driver if any of the parameter goes out of range to avoid accidents . A situation that provides a good example of how the system works is when a driver is about to change lanes, and there is a car in his blind spot. The sensors will detect that car and inform the driver before he starts turning, preventing him from potentially getting into a serious accident.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
