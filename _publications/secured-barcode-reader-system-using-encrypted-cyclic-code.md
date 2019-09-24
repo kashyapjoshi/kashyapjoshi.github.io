@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Secured Barcode Reader System Using Encrypted cyclic code"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: /publication/secured-barcode-reader-system-using-encrypted-cyclic-code
+excerpt: 'This paper provides a wireless barcode system in which the barcode scans the barcode and then this data is processed using a microcontroller and converted into serial form and then this data is send wirelessly through bluetooth and at the receiving end the data is received by another bluetooth device and then the data is again processed using a microcontroller to convert the data into machine level and then stored into a database into a computer. This paper also shows a improved system which uses encrypted cyclic codes for better security using less hardware.'
+date: 2013-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Kashyap Joshi (2013). &quot;Secured Barcode Reader System Using Encrypted cyclic code.&quot; <i>Journal 1</i>'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper provides a wireless barcode system in which the barcode scans the barcode and then this data is processed using a microcontroller and converted into serial form and then this data is send wirelessly through bluetooth and at the receiving end the data is received by another bluetooth device and then the data is again processed using a microcontroller to convert the data into machine level and then stored into a database into a computer. This paper also shows a improved system which uses encrypted cyclic codes for better security using less hardware.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
