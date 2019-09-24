@@ -76,4 +76,4 @@ Mentoring
 ------
 * Mentored various teams for participation at robotics competitions:
   * Team Robocon MPSTME, 2014-2016. The team won "Best usage of Mathworks Tools for Modelling & Simulations" awards at ABU Robocon India in 2015 & 2016.
-  * Team AUV MPSTME, 2018-2019. The team stood 4th internationally at SAUVC in 2018 & bagged a prize for "Social media", while standing 7th internationally in 2019.
+  * Team AUV MPSTME, 2018-2019. The team stood 4th internationally at SAUVC in 2018 & bagged the "Social media prize", while standing 7th internationally in 2019.
