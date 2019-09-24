@@ -10,12 +10,14 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Bachelor of Engineering in EXTC, NDMVP Samaj’s college of Engineering, Pune University, 2011
 * Master of Technology in EXTC, MPSTME, NMIMS University, 2014
 
+
+
 Work experience
-======
+------
 * July 2011 to June 2012: Quality Assurance Engineer
   * Duties included:
 	* Interface with production team for daily activities.
@@ -33,7 +35,7 @@ Work experience
 
   
 Skills
-======
+------
 * Circuit design/fabrication
   * Xilinx
   * Keil
@@ -45,26 +47,33 @@ Skills
   * Python
   
 
+
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+  
 Talks
-======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+  
+  
 Teaching
-======
+------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+  
 Mentoring
-======
+------
 * Mentored various teams for participation at robotics competitions:
   * Team Robocon MPSTME, 2014-2016. The team won "Best usage of Mathworks Tools for Modelling & Simulations" awards at ABU Robocon India in 2015 & 2016.
   * Team AUV MPSTME, 2018-2019. The team stood 4th internationally at SAUVC in 2018 & bagged a prize for "Social media", while standing 7th internationally in 2019.
