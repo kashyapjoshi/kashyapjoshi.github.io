@@ -17,18 +17,18 @@ Education
 Work experience
 ======
 * July 2011 to June 2012: Quality Assurance Engineer
-  Duties included:
-  * Interface with production team for daily activities.
-  * Checking product electrically and checking the final product after final packing.
-  * Solving customer complaints and queries.
-  * Developing new strategies to improve quality of products and minimizing error margin.
+  * Duties included:
+	* Interface with production team for daily activities.
+	* Checking product electrically and checking the final product after final packing.
+	* Solving customer complaints and queries.
+	* Developing new strategies to improve quality of products and minimizing error margin.
 
 
 * September 2012 to June 2015: Teaching Assistant
   * MPSTME, NMIMS University
-  Responsibilities:
-  * Teaching B.Tech students.
-  * Taught subjects like Optical Fiber Communication, Basic Electronics, Analog Communication, Digital Logic Design and Electronic Circuit Design and Applications.
+  *   Responsibilities:
+	* Teaching B.Tech students.
+	* Taught subjects like Optical Fiber Communication, Basic Electronics, Analog Communication, Digital Logic Design and Electronic Circuit Design and Applications.
 
 
   
