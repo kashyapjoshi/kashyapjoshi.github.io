@@ -26,7 +26,7 @@ Work experience
 
 * September 2012 to June 2015: Teaching Assistant
   * MPSTME, NMIMS University
-  *   Responsibilities:
+  * Responsibilities:
 	* Teaching B.Tech students.
 	* Taught subjects like Optical Fiber Communication, Basic Electronics, Analog Communication, Digital Logic Design and Electronic Circuit Design and Applications.
 

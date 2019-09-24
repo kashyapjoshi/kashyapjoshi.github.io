@@ -1,0 +1,15 @@
+---
+title: "ARM7 Based Controller Area Network Based Accident Avoidance in Automobiles"
+collection: publications
+permalink: /publication/arm7-based-controller-area-network-based-accident-avoidance-in-automobiles
+excerpt: 'Based on requirements of modern vehicle, in- vehicle Controller Area Network (CAN) architecture has been implemented. In order to reduce point to point wiring harness in vehicle automation, CAN is suggested as a means for data communication within the vehicle environment. The benefits of CAN bus based network over traditional point to point schemes will offer increased flexibility and expandability for future technology insertions.
+This paper describes system which uses sensors to measure various parameters of the car like speed, distance from the other car, presence of alcohol in car and accidental change of lane and sends a warning signal to the driver if any of the parameter goes out of range to avoid accidents . In addition to this if accident occurs in any remote area then using bump sensor accident is detected and SMS is send immediately using GSM. A situation that provides a good example of how the system works is when a driver is about to change lanes, and there is a car in his blind spot. The sensors will detect that car and inform the driver before he starts turning, preventing him from potentially getting into a serious accident.'
+date: 2014-01-24
+venue: 'International Journal IJETT'
+paperurl: 'http://kashyapjoshi.github.io/files/paper3.pdf'
+citation: 'Kashyap Joshi (2014). &quot;ARM7 Based Controller Area Network Based Accident Avoidance in Automobiles.&quot; <i>International Journal IJETT</i>'
+---
+Based on requirements of modern vehicle, in- vehicle Controller Area Network (CAN) architecture has been implemented. In order to reduce point to point wiring harness in vehicle automation, CAN is suggested as a means for data communication within the vehicle environment. The benefits of CAN bus based network over traditional point to point schemes will offer increased flexibility and expandability for future technology insertions.
+This paper describes system which uses sensors to measure various parameters of the car like speed, distance from the other car, presence of alcohol in car and accidental change of lane and sends a warning signal to the driver if any of the parameter goes out of range to avoid accidents . In addition to this if accident occurs in any remote area then using bump sensor accident is detected and SMS is send immediately using GSM. A situation that provides a good example of how the system works is when a driver is about to change lanes, and there is a car in his blind spot. The sensors will detect that car and inform the driver before he starts turning, preventing him from potentially getting into a serious accident.
+
+[Download paper here](http://kashyapjoshi.github.io/files/paper3.pdf)
