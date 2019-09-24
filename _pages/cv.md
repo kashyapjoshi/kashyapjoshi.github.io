@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in EXTC, NDMVP Samaj’s college of Engineering, Pune University, 2011
+* Master of Technology in EXTC, MPSTME, NMIMS University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2011 to June 2012: Quality Assurance Engineer
+  Duties included:
+  * Interface with production team for daily activities.
+  * Checking product electrically and checking the final product after final packing.
+  * Solving customer complaints and queries.
+  * Developing new strategies to improve quality of products and minimizing error margin.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* September 2012 to June 2015: Teaching Assistant
+  * MPSTME, NMIMS University
+  Responsibilities:
+  * Teaching B.Tech students.
+  * Taught subjects like Optical Fiber Communication, Basic Electronics, Analog Communication, Digital Logic Design and Electronic Circuit Design and Applications.
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Circuit design/fabrication
+  * Xilinx
+  * Keil
+  * Eagle
+  * WinAvr
+  * Proteus
+* Programming languages
+  * C/C++
+  * Python
+  
 
 Publications
 ======
@@ -53,7 +62,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
