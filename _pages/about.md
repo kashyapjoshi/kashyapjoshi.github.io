@@ -14,4 +14,4 @@ Most of my previous industrial work was centred around dial making softwares, pa
 
 At NMIMS, I have been teaching subjects like Digital Logic Design, Analog Electronics, Numerical methods, Microprocessor and Microcontrollers and Optical Fiber Systems for the past 10 years. I have also mentored student teams at various robotics competitions.
 
-I am working as a Co-Investigator on soft biomedical robots and the research is fully funded by the Indian Council of Medical Research. 
+Currently, I am working as a Co-Investigator on soft biomedical robots and the research is fully funded by the Indian Council of Medical Research. 
